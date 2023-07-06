@@ -1,0 +1,15 @@
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\Business.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\DataAccess.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\Entity.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\Business.pdb
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\DataAccess.pdb
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\bin\Debug\Entity.pdb
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -1,0 +1,9 @@
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\bin\Debug\DataAccess.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\bin\Debug\DataAccess.pdb
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\bin\Debug\Entity.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\bin\Debug\Entity.pdb
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\obj\Debug\DataAccess.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\DataAccess1\obj\Debug\DataAccess.pdb

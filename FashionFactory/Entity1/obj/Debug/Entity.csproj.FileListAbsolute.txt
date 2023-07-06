@@ -1,0 +1,6 @@
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\Entity1\bin\Debug\Entity.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\Entity1\bin\Debug\Entity.pdb
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\Entity1\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\Entity1\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\Entity1\obj\Debug\Entity.dll
+C:\Users\hikme\OneDrive\Masaüstü\.Net WorkSpace\FashionFactory\FashionFactory\Entity1\obj\Debug\Entity.pdb
